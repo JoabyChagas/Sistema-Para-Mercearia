@@ -1,0 +1,5 @@
+banana|4|frutas|56
+abacate|6|Sem Categoria|90
+banana|4|frutas|56
+abacate|6|Sem Categoria|90
+batara|7|legumes|63

@@ -1,0 +1,5 @@
+banana|5|caio|marcos|frutas|3|15/06/2023
+banana|5|caio|marcos|frutas|130|16/06/2023
+alface|3|Marcos|Antonio|verduras|10|17/06/2023
+alface|3|Marcos|Antonio|verduras|100|18/06/2023
+alface|3|joao|pedro|verduras|20|26/06/2023
